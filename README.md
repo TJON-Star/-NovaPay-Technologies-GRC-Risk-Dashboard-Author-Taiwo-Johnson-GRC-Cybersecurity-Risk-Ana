@@ -1,4 +1,4 @@
-# NovaPay Technologies — GRC Risk Dashboard
+# NovaPay Technologies - GRC Risk Dashboard
 
 > *Transforming raw data into actionable insights for governance, risk, and compliance.*
 
