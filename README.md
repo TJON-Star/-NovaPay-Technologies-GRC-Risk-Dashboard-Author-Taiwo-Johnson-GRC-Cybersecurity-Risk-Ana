@@ -28,7 +28,7 @@ Key highlights:
 
 ---
 
-##📊 Risk Categories Covered
+## 📊 Risk Categories Covered
 | Category | Description |
 |---|---|
 | 🔴 Critical Risks | High-likelihood, high-impact risks requiring immediate action |
