@@ -2,7 +2,7 @@
 
 > *Transforming raw data into actionable insights for governance, risk, and compliance.*
 
-![Dashboard Overview](data/images/Dashboard_Overview.png)
+![Dashboard Preview](The%20Full%20Dashboard%20Overview.jpeg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 [![Made with Power BI](https://img.shields.io/badge/Tool-Power%20BI-orange)]()
@@ -39,29 +39,28 @@ Key highlights:
 ---
 
 ## 🖼️ Dashboard Visuals
-
-| Visual | Description |
+| File | Description |
 |---|---|
-| [Dashboard Overview](data/images/Dashboard_Overview.png) | Full GRC risk monitoring view |
-| [Critical Risks](data/images/Critical_Risks.png) | Breakdown of risks requiring immediate remediation |
-| [Open Risks](data/images/Open_Risks.png) | Active risks by owner, likelihood, and impact |
-| [Risk Register Snapshot](data/images/Risk_Register_Snapshot.png) | Detailed risk register with category, likelihood, impact, and control owner |
+| `The Full Dashboard Overview.jpeg` | Full GRC risk monitoring view |
+| `Critical filter active.jpeg` | Breakdown of risks requiring immediate remediation |
+| `Open status filter active.jpeg` | Active risks filtered by open status |
+| `Image Breakdown.jpeg` | Risk breakdown by category and severity |
+| `Image map.jpeg` | Risk map across business domains |
 
 ---
 
 ## 📁 Risk Register
 The risk register provides detailed entries for each identified risk, including **category, likelihood, impact, and control owner**.
 
-- [Risk Register Snapshot](data/images/Risk_Register_Snapshot.png)
-- [Power BI File](data/NovaPay_Risk_Dashboard.pbix)
+- Power BI File → `NovaPay_Risk_Dashboard.pbix`
 
 ---
 
 ## 🚀 How to Use
-1. Download the `.pbix` file from the `data/` folder
-2. Open `data/NovaPay_Risk_Dashboard.pbix` in **Power BI Desktop**
-3. Explore interactive charts and risk metrics
-4. Review the risk register for detailed entries
+1. Download `NovaPay_Risk_Dashboard.pbix` and open in **Power BI Desktop**
+2. Explore interactive charts and risk metrics
+3. Browse the `.jpeg` files for dashboard screenshot previews
+4. Review the risk register within Power BI for detailed entries
 
 ---
 
